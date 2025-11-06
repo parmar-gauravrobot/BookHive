@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953730006871",
+    "project_id": "bookhhive",
+    "storage_bucket": "bookhhive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953730006871:android:7a8e19a73decc156e80812",
+        "android_client_info": {
+          "package_name": "com.example.bookhive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxQfRoBjkbczrHvZSmewwZT6e2NRmoMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
